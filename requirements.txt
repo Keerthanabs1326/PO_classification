@@ -1,5 +1,0 @@
-streamlit
-groq
-datasets
-scikit-learn
-joblib
