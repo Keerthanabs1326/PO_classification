@@ -1,0 +1,15 @@
+{
+  "version": "v1.0",
+  "categories": [
+    { "L1": "IT", "L2": "Software", "L3": "Subscription" },
+    { "L1": "IT", "L2": "Software", "L3": "Licenses Cost" },
+    { "L1": "IT", "L2": "Hardware", "L3": "Laptop" },
+    { "L1": "IT", "L2": "Hardware", "L3": "Mobile" },
+
+    { "L1": "T&E", "L2": "Air", "L3": "Not sure" },
+    { "L1": "T&E", "L2": "Hotel", "L3": "Not sure" },
+
+    { "L1": "Banking & Financial", "L2": "Insurance", "L3": "Not sure" },
+    { "L1": "Professional Services", "L2": "Consulting Services", "L3": "Not sure" }
+  ]
+}
